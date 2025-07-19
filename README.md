@@ -23,7 +23,7 @@ Includes real-time input validation and success message after submission.
 3. Test the form by submitting with different inputs  
 
 ## 👤 Author  
-[Farhad Akbary](https://github.com/your-github-username)  
+[Farhad Akbary](https://github.com/farhad-dev84)  
 
 ---
 
